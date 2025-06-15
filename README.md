@@ -27,6 +27,21 @@ Build a modern, responsive real estate website using React.js for the frontend. 
 
 ## 📸 Website View
 
+![Screenshot 2025-06-15 085735](https://github.com/user-attachments/assets/aa565d93-825f-499b-86fe-2648e6f7e5a3)
+
+![Screenshot 2025-06-15 085802](https://github.com/user-attachments/assets/d7c72d19-42b2-4e68-be78-82c043b6a16f)
+
+![Screenshot 2025-06-15 085813](https://github.com/user-attachments/assets/bc55fda9-5d9e-4ad6-a094-8fdb800200fa)
+
+![Screenshot 2025-06-15 085822](https://github.com/user-attachments/assets/97e546a1-a463-4029-9dba-afb90e7a1a66)
+
+![Screenshot 2025-06-15 085833](https://github.com/user-attachments/assets/6f747286-5ce2-433d-bae8-9051dd35ee50)
+
+![Screenshot 2025-06-15 085844](https://github.com/user-attachments/assets/16bf02d3-fac2-4776-ba28-4b03c476f6c4)
+
+![Screenshot 2025-06-15 085857](https://github.com/user-attachments/assets/6e9d48c3-72b1-4c16-addb-3028c3d51ff8)
+
+![Screenshot 2025-06-15 085904](https://github.com/user-attachments/assets/2ccac103-a8a3-494e-9bdc-eee60c33eb4f)
 
 ---
 
