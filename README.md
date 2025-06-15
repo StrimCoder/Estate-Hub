@@ -19,11 +19,10 @@ Build a modern, responsive real estate website using React.js for the frontend. 
 ---
 
 ## 🖥️ Tech Stack
-```
+
 | Frontend       | Backend (Optional) | Styling         | Map API        |
 |:---------------|:------------------|:----------------|:----------------|
 | React.js        | Node.js + Express  | Tailwind CSS / Bootstrap | Google Maps Embed / Mapbox |
-```
 ---
 
 ## 📸 Website View
@@ -86,6 +85,8 @@ Feel free to fork, improve and use it commercially or personally.
 ---
 
 💖 Author
+
 Bhushan Navsagar
+
 Connect with me on LinkedIn | GitHub
 
