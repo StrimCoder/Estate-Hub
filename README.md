@@ -105,17 +105,23 @@ google-maps-react (optional for map integration)
 
 ---
 
-📜 License
+## 🙌 Contribution  
 
-MIT License.
-Feel free to fork, improve and use it commercially or personally.
+Contributions, ideas, and suggestions are always welcome!  
+Feel free to check the [issues page](https://github.com/StrimCoder/The-BigBull---Stock-Prediction-Model/issues) or submit a pull request.
+
+---
+
+## 📃 License  
+
+This project is **open-source** and available under the [MIT License](LICENSE).
 
 ---
 
-💖 Author
+## 👑 Created By  
 
-Bhushan Navsagar
+**Bhushan Navsagar** ✨  
+[GitHub](https://github.com/StrimCoder) | [LinkedIn](https://www.linkedin.com/in/bhushan-navsagar-2b683a293/)
 
-Connect with me on LinkedIn | GitHub
 
----
+
