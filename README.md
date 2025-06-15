@@ -65,8 +65,12 @@ npm install
 npm start
 ```
 
-4️⃣ Visit http://localhost:3000 in your browser.
+4️⃣ Visit
 
+```http://localhost:3000 ```
+in your browser.
+
+ ---
 📄 Requirements
 
 Install dependencies via:-
