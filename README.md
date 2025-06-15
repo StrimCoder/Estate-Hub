@@ -1,10 +1,14 @@
 ## Real Estate Property Listing Website using React - Estate_Hub
+
 ---
+
 Objective:-
 
 Build a modern, responsive real estate website using React.js for the frontend. The website should allow users to browse, search, and filter property listings, view property details, and optionally contact agents for inquiries.
 “Build a responsive, modern real estate property listing website using React.js, featuring property listings with filtering, sorting, property details pages, contact forms, and a user-friendly UI. Optionally, integrate a backend with Node.js or a mock API, include an admin panel for property management, and enhance with maps integration and user authentication."
+
 ---
+
 ## ✨ Features
 
 - 🔍 **Search and Filter Properties** by location, type, price range, and more.
@@ -23,6 +27,7 @@ Build a modern, responsive real estate website using React.js for the frontend. 
 | Frontend       | Backend (Optional) | Styling         | Map API        |
 |:---------------|:------------------|:----------------|:----------------|
 | React.js        | Node.js + Express  | Tailwind CSS / Bootstrap | Google Maps Embed / Mapbox |
+
 ---
 
 ## 📸 Website View
@@ -71,6 +76,7 @@ npm start
 in your browser.
 
  ---
+ 
 📄 Requirements
 
 Install dependencies via:-
@@ -80,6 +86,7 @@ npm install
 If you prefer a requirements.txt-style list, see below.
 ```
 ---
+
 📦 Dependencies
 
 react
@@ -95,12 +102,14 @@ tailwindcss (or bootstrap)
 react-icons
 
 google-maps-react (optional for map integration)
+
 ---
 
 📜 License
 
 MIT License.
 Feel free to fork, improve and use it commercially or personally.
+
 ---
 
 💖 Author
@@ -109,3 +118,4 @@ Bhushan Navsagar
 
 Connect with me on LinkedIn | GitHub
 
+---
