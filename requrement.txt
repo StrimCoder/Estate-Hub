@@ -1,0 +1,8 @@
+react
+react-dom
+react-router-dom
+axios
+tailwindcss
+react-icons
+google-maps-react
+json-server
